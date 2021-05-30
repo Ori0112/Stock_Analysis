@@ -250,3 +250,12 @@ Some of the potential risk factors that exist are is accidentally introducing ne
 
 ### Advantages and Disadvatages of the Original and Refactored Stock VBA Code:
 
+The greatest advantage about refactoring our code is that it became faster to pull the final data we needed. 
+
+Timing for 2017:
+
+![Screenshot](Code_Run_2017.png)
+
+Timing for 2018:
+
+![Screenshot](Code_Run_2018.png)
