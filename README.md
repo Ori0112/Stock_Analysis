@@ -241,3 +241,12 @@ The "All Stocks (2018)" analysis was:
 ![Screenshot](VBA_Challenge_2018.png)
 
 ## Summary
+
+### Advantages and Disadvantoges of Refactoring Code:
+
+One of the main and most obvious advantages abour refactoring code is that it makes collecting data more efficient and timely. It helps find bugs, elevate the outline of your original software, help you better understand your software, and in the end of the day save money by being able to program faster.
+
+Some of the potential risk factors that exist are is accidentally introducing new bugs if you are rushing to refactor a code to meet a deadline. It can also potentially be more time consuming when the application is too extensive to properly test the functionality of the refactored code.
+
+### Advantages and Disadvatages of the Original and Refactored Stock VBA Code:
+
