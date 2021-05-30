@@ -234,3 +234,10 @@ Then we reformatted the original code in order to run the data more efficiently 
     
 In the end the "All Stocks (2017)" analysis was:
 
+![Screenshot](VBA_Challenge_2017.png)
+
+The "All Stocks (2018)" analysis was:
+
+![Screenshot](VBA_Challenge_2018.png)
+
+## Summary
