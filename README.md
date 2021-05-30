@@ -11,3 +11,8 @@ Therefore, we are in charge of analyzing the data that Steve has collected. We w
 Steve's parents were mainly interested in finding the total daily volume and yearly return of investments for DAQO, concerned with how actively DAQO was traded in 2018. Our method was to find these KPIs for Steve's parents, as well as, compare DAQO with 11 other green energy stock.  
 
 Using VBA we looped through evey row in our stock data to find the ticker values, and determinte the total volumes and yearly returns for DAQO in 2018. Then we used the same code to run through all the the green energy stocks of 2017 and 2018. In the end, we modified our original code to pull the data we needed more efficiently.
+
+## Results
+
+The code that was developed was in charge of automating three output arrays, format a chart where we would be presenting our findings, using a program flow that loops through all the tickers, and evaluting the three KPIs.
+
